@@ -28,8 +28,11 @@ img {
   border-radius: 50%;
 }
 
-.card-title{
+.text-center{
   text-align: center;
+}
+
+.card-title{
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
@@ -40,7 +43,6 @@ img {
 }
 
 .card{
-  text-align: center;
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
@@ -52,10 +54,6 @@ img {
 
 .card:hover {
   background: #eff2f7;
-}
-
-.link{
-  text-align: center;
 }
 
 .list-inline > li {
