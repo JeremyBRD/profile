@@ -4,7 +4,7 @@ body {
   background-color: #F4F7FC:;
   font-family: 'Montserrat', sans-serif;
   color: #005082;
-  font-size: 23px;
+  font-size: 21px;
   line-height: 30px;
 }
 
@@ -28,16 +28,20 @@ img {
   border-radius: 50%;
 }
 
-.text-center{
+.text-centred{
   text-align: center;
+}
+
+.what-i-do{
+  padding: 30px;
+  margin: 20px 20px;
 }
 
 .card-title{
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
-  padding: 30px;
-  box-shadow: 3px 3px 24px #abb2bc;
+  box-shadow: 1px 1px 2px #abb2bc;
   padding: 30px;
   margin: 20px 20px;
 }
@@ -46,8 +50,7 @@ img {
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
-  padding: 30px;
-  box-shadow: 3px 3px 24px #abb2bc;
+  box-shadow: 1px 1px 2px #abb2bc;
   padding: 30px;
   margin: 20px 20px;
 }
