@@ -28,6 +28,7 @@ img {
   border-radius: 50%;
 }
 
+
 .text-centred {
   text-align: center;
 }
@@ -75,6 +76,11 @@ img {
   list-style: none;
   padding-left: 0px;
   font-size: 50px;
+  transition: all .2s ease-in-out;
+}
+
+.list-inline:hover {
+  transform: scale(1.1);
 }
 
 .container {
