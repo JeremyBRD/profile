@@ -72,14 +72,14 @@ img {
   padding: 0px 20px;
 }
 
-.list-inline {
+.list-icons {
   list-style: none;
   padding-left: 0px;
   font-size: 50px;
   transition: all .2s ease-in-out;
 }
 
-.list-inline:hover {
+.list-icons:hover {
   transform: scale(1.1);
 }
 
