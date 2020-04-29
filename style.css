@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,900i|Mukta:400,800|PT+Serif:400,700|Roboto:400,900&display=swap');
+
+body {
+  background-color: #F4F7FC:;
+  font-family: 'Montserrat', sans-serif;
+  color: #005082;
+  font-size: 23px;
+  line-height: 30px;
+}
+
+h1, h2, h3 {
+  color: #000839;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 47px;
+}
+
+a {
+  color: #00A8CC;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #000839;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.card-title{
+  text-align: center;
+  background: #dee6f2;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  padding: 30px;
+  box-shadow: 3px 3px #abb2bc;
+  padding: 30px;
+  margin: 20px 20px;
+}
+
+.card{
+  text-align: center;
+  background: #dee6f2;
+  border: 1px solid lightgrey;
+  border-radius: 6px;
+  padding: 30px;
+  box-shadow: 3px 3px #abb2bc;
+  padding: 30px;
+  margin: 20px 20px;
+}
+
+.card:hover {
+  background: #eff2f7;
+}
+
+.link{
+  text-align: center;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 50px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
