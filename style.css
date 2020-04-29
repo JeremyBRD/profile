@@ -28,25 +28,27 @@ img {
   border-radius: 50%;
 }
 
-.text-centred{
+.text-centred {
   text-align: center;
 }
 
-.what-i-do{
-  padding: 30px;
-  margin: 20px 20px;
+.what-i-do {
+  padding: 22px;
+  font-family: 'Roboto', bold, sans-serif;
+  font-size: 45px;
+
 }
 
-.card-title{
+.card-title {
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
-  box-shadow: 1px 1px 2px #abb2bc;
+  box-shadow: 1px 1px 2px rgb(223, 230, 242);
   padding: 30px;
   margin: 20px 20px;
 }
 
-.card{
+.card {
   background: #dee6f2;
   border: 1px solid lightgrey;
   border-radius: 6px;
@@ -57,6 +59,11 @@ img {
 
 .card:hover {
   background: #eff2f7;
+}
+
+.catch-link {
+  padding: 25px;
+  font-size: 30px;
 }
 
 .list-inline > li {
@@ -74,3 +81,4 @@ img {
   width: 800px;
   margin: 0 auto;
 }
+
